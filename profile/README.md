@@ -5,7 +5,7 @@ Welcome to the Gaming Platform! This platform aims to provide a diverse range of
 The Gaming Platform comes with a range of features to provide an enjoyable gaming experience:
 - **Diverse Game Collection**: Enjoy a variety of simple and entertaining games suitable for all ages and skill levels.
 - **User Accounts**: Create personalized accounts to track game progress, achievements, and statistics.
-- **Responsive Design**: The platform is designed to provide an optimal experience across different daevices and screen sizes.
+- **Responsive Design**: The platform is designed to provide an optimal experience across different devices and screen sizes.
 - **Leaderboards**: Compete with other players and compare your scores to see how you stack up.
 - **Game Documentation**: Each game comes with detailed instructions and tips to help you get started and improve your skills.
 - **Regular Updates**: Expect new games and features added regularly to keep the platform fresh and exciting.
@@ -19,7 +19,7 @@ We're committed to making the Gaming Platform a fun and engaging place for all g
 
 ## Our Awesome Team
 
-Meet the talented individuals who are working hard to make the Awesome Gaming Platform a reality:
+Meet the talented individuals who are working hard to make the Gaming Platform a reality:
 
 
 ### Project Manager
@@ -50,7 +50,7 @@ Meet the talented individuals who are working hard to make the Awesome Gaming Pl
 
 #### Anikanov Oleksandr
 
-- **Github**: [github.com/Anikanov02]https://github.com/Anikanov02)
+- **Github**: [github.com/Anikanov02](https://github.com/Anikanov02)
 
 
 ---
